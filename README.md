@@ -6,7 +6,7 @@ Welcome to my AI/ML portfolio from the Post Graduate Program in AI/ML. This repo
 1. **[Plant Seedling Classification](plant-seedling-classification/)**  
    Built a CNN model to classify plant seedlings (58.74% accuracy), adaptable for insurance document classification (e.g., claims photos).  
    **Skills**: TensorFlow, Keras, CNNs, image processing.
-   Notebook HTML version : [https://github.com/tselva-AIML/AI-ML-Portfolio/raw/main/plant-seedling-classification/visuals/notebook.html]
+   Notebook HTML version : [https://github.com/tselva-AIML/AI-ML-Portfolio/main/plant-seedling-classification/visuals/notebook.html]
 
 
 

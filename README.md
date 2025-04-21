@@ -40,7 +40,7 @@ I’m a Solutions Architect with 22 years in P&C insurance, specializing in SaaS
 - [Associate in Insurance (AINS)](https://www.theinstitutes.org/) (2025)
 
 ## Future Work
-- Adding P&C-focused AI/ML projects, including:
+Adding P&C-focused AI/ML projects, including:
 - Claims Severity Prediction (AWS SageMaker)
 - NLP for Claims Analysis (Azure ML)
 - Fraud Detection Dashboard (Power BI)

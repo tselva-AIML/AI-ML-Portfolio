@@ -5,21 +5,24 @@ Welcome to my AI/ML portfolio from the Post Graduate Program in AI/ML. This repo
 ## Projects
 1. **[Plant Seedling Classification](plant-seedling-classification/)**  
    Built a CNN model to classify plant seedlings (58.74% accuracy), adaptable for insurance document classification (e.g., claims photos).  
-   **Skills**: TensorFlow, Keras, CNNs, image processing.  
+   **Skills**: TensorFlow, Keras, CNNs, image processing.
+   Notebook HTML version : [https://github.com/tselva-AIML/AI-ML-Portfolio/raw/main/plant-seedling-classification/visuals/notebook.html]
 
-2. **[Bank Customer Churn Prediction](bank-customer-churn/)**  
+
+
+3. **[Bank Customer Churn Prediction](bank-customer-churn/)**  
    Developed a neural network that identifies 75% of all actual churners, applicable to P&C policyholder retention.  
    **Skills**: TensorFlow, Keras, EDA.  
 
-3. **[Credit Card Users Churn Prediction](credit-card-churn/)**  
+4. **[Credit Card Users Churn Prediction](credit-card-churn/)**  
    Created a Random Forest model with SMOTE for churn prediction, adaptable for claims fraud detection.  
    **Skills**: Scikit-learn, SMOTE, hyperparameter tuning. 
 
-4. **[Personal Loan Campaign](personal-loan-campaign/)**  
+5. **[Personal Loan Campaign](personal-loan-campaign/)**  
    Built a Decision Tree model to predict loan uptake, applicable to P&C underwriting.  
    **Skills**: Scikit-learn, EDA.
 
-5. **[FoodHub](foodhub/)**  
+6. **[FoodHub](foodhub/)**  
    Conducted EDA to derive business insights, adaptable for P&C customer analytics.  
    **Skills**: Pandas, Seaborn, Python Foundations.  
 

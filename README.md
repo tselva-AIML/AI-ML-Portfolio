@@ -24,7 +24,7 @@ Welcome to my AI/ML portfolio from the Post Graduate Program in AI/ML. This repo
    **Skills**: Pandas, Seaborn, Python Foundations.  
 
 ## About Me
-I’m a Solutions Architect with 22 years in P&C insurance, specializing in SaaS implementations (Duck Creek) and digital transformation. Certified in **AWS**, **Azure**, **Duck Creek**, and **PMP**, I’m pursuing an MS in Computer Science to drive insurtech innovation. Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or explore my [portfolio website](https://yourname.com).
+I’m a Solutions Architect with 22 years in P&C insurance, specializing in SaaS implementations (Duck Creek) and digital transformation. Certified in **AWS**, **Azure**, **Duck Creek**, and **PMP**, I’m pursuing an MS in Computer Science to drive insurtech innovation. Connect with me on [www.linkedin.com/in/selvakumar-thirumalainambi] or explore my [portfolio website](https://yourname.com).
 
 ## How to Use
 - Clone the repository: `git clone https://github.com/tselva-AIML/AI-ML-Portfolio.git`

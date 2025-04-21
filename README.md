@@ -4,12 +4,12 @@ Welcome to my AI/ML portfolio from the Post Graduate Program in AI/ML. This repo
 
 ## Projects
 1. **[Plant Seedling Classification](plant-seedling-classification/)**  
-   Built a CNN model to classify plant seedlings (98% accuracy), adaptable for insurance document classification (e.g., claims photos).  
+   Built a CNN model to classify plant seedlings (58.74% accuracy), adaptable for insurance document classification (e.g., claims photos).  
    **Skills**: TensorFlow, Keras, CNNs, image processing.  
 
 2. **[Bank Customer Churn Prediction](bank-customer-churn/)**  
-   Developed a neural network to predict customer churn (85% F1-score), applicable to P&C policyholder retention.  
-   **Skills**: TensorFlow, Keras, EDA, Power BI Data Analyst.  
+   Developed a neural network that identifies 75% of all actual churners, applicable to P&C policyholder retention.  
+   **Skills**: TensorFlow, Keras, EDA.  
 
 3. **[Credit Card Users Churn Prediction](credit-card-churn/)**  
    Created a Random Forest model with SMOTE for churn prediction, adaptable for claims fraud detection.  

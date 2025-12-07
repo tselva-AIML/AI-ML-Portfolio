@@ -1,4 +1,8 @@
-numpy==1.25.2
+# FoodHub EDA - Dependencies
+# Core libraries
+numpy==1.26.4
 pandas==2.2.2
+
+# Visualization
 matplotlib==3.8.0
 seaborn==0.13.1

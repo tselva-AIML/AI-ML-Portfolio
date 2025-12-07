@@ -1,7 +1,17 @@
-tensorflow==2.18.0 
-scikit-learn==1.3.2
-seaborn==0.13.1
-matplotlib==3.8.0
-numpy==1.26
+# Plant Seedling Classification - Dependencies
+# Core libraries
+numpy==1.26.4
 pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.1
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Deep Learning
+tensorflow==2.18.0
+
+# Image Processing
 opencv-python==4.8.0.7
